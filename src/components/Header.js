@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div>
-      <h1 className="heading_">TIPS CALCULATOR</h1>
+      <h1 className="heading_">TIP CALCULATOR</h1>
     </div>
   );
 };
